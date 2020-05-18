@@ -1,3 +1,7 @@
+##### Program written for the Astro Pi Mission Space Lab Challenge 2019/2020 #####
+##### Entry by the team: Mostly Harmless                                     #####
+##### Team members: Avati Cristiana, Creazzo Salvatore; from Calabria, Italy #####
+
 from sense_hat import SenseHat
 import os
 import datetime as dt
